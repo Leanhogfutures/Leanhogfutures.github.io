@@ -1,32 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Leanhogfutures
-Leanhogfutures /
-HTML_CSS
-
-1
-0
-
-    0
-
-Code
-Issues 0
-Pull requests 0
-Actions
-Projects 0
-Wiki
-Security 0
-Insights
-
-    Settings
-
-HTML_CSS/index.html
-@Leanhogfutures Leanhogfutures Add files via upload 33becd2 2 minutes ago
-76 lines (53 sloc) 1.35 KB
 <!DocTYPE html>
 <html lang="en">
 <head>
